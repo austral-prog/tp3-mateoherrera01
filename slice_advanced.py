@@ -6,4 +6,3 @@ def slice_advanced():
 
     mensaje = input("Ingrese su mensaje: ")
     print(mensaje[4::2])
-slice_advanced()

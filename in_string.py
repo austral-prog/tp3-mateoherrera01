@@ -11,4 +11,3 @@ def check_vowels():
     print(f"Contiene i: {'i' in nombre or 'í' in nombre}")
     print(f"Contiene o: {'o' in nombre or 'O' in nombre}")
     print(f"Contiene u: {'u' in nombre or 'U' in nombre}")
-check_vowels()
